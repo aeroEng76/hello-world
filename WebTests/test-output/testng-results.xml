@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="503" started-at="2020-02-24T20:46:07 PST" finished-at="2020-02-24T20:46:07 PST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="503" started-at="2020-02-24T20:46:07 PST" finished-at="2020-02-24T20:46:07 PST">
+      <class name="Tests">
+        <test-method status="PASS" signature="BuildJSON()[pri:0, instance:Tests@76f2b07d]" name="BuildJSON" duration-ms="469" started-at="2020-02-24T20:46:07 PST" finished-at="2020-02-24T20:46:07 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BuildJSON -->
+      </class> <!-- Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
